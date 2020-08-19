@@ -1,0 +1,26 @@
+Nous avons eu un probleme avec le .hex on s'est rendu compte
+que pour des ordinateurs différents cela pouvait donner des fichiers 
+differents nous avons parlé avec Jerome collin, tristan ainsi
+que abde sur Discord. Il nous ont dit de faire part de ce probleme
+dans ce fichier.
+_____________________________________________________________
+
+Notre projet est divisé en deux parties : La librairie et l'exécutable
+
+La section Librairie contient :
+
+- Toutes nos classes utilisées pour le projet
+
+
+La section Exécutable contient :
+
+
+- L'appel à plusieurs fonctions de nos classes
+
+- L'utilisation de plusieurs interruptions notamment pour l'Afficheur7segment et les manoeuvres
+
+
+
+De plus, on a partagé le but de notre robot en deux modes : Détection et Manoeuvres
+
+Ainsi notre Exécutable contient ces deux parties.
